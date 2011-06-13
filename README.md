@@ -10,4 +10,4 @@ Getting Started
   * WORKSPACE_DIR - local checked-out copy of the SVN repo.
  * Run README.bat 
 
-[gradle]:http://groovy.codehaus.org/
+[groovy]:http://groovy.codehaus.org/
